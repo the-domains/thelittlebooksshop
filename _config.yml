@@ -4,7 +4,9 @@ analytics:
 github: true
 description: Inspiring mobile films
 author:
+  name: The Film Dream Cinemaliit
   url: 'http://www.thefilmdream.com'
+  email: thefilmdream@icloud.com
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
