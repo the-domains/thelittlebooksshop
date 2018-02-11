@@ -1,6 +1,8 @@
 name: The Film Dream Cinemaliit
-analytics: {}
+analytics:
+  google: UA-64070424-1
 github: true
+description: Inspiring mobile films
 author:
   url: 'http://www.thefilmdream.com'
 colors:
