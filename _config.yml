@@ -1,0 +1,41 @@
+name: The Film Dream Cinemaliit
+analytics: {}
+github: true
+author: {}
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content: []
+layout_spectrum: 0.18375327438116074
+color:
+  lightness: 0.8724299382884055
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  saturation: 0.7834092606790364
+  brandStrength: 0.10182219883427024
+  rhythmicContrast: 0.9688708949834108
+content_rating:
+  adult: false
+typography_spectrum: 0.08569695800542831
+opengraph: {}
+title: The Film Dream Cinemaliit
