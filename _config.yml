@@ -1,7 +1,8 @@
 name: The Film Dream Cinemaliit
 analytics: {}
 github: true
-author: {}
+author:
+  url: 'http://www.thefilmdream.com'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
