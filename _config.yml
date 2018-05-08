@@ -1,10 +1,10 @@
-name: Cinemaliit
+name: The Film Dream Creatives
 analytics:
   google: UA-64070424-1
 github: true
-description: Inspiring & Transformative Mobile Films
+description: 'Of Insights, Ideas, Stories & Lessons'
 author:
-  name: The Film Dream Cinemaliit
+  name: The Film Dream Creatives
   url: 'http://www.thefilmdream.com'
   email: thefilmdream@icloud.com
 colors:
@@ -20,12 +20,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content: []
 layout_spectrum: 0.18375327438116074
 color:
@@ -43,4 +43,4 @@ content_rating:
   adult: false
 typography_spectrum: 0.08569695800542831
 opengraph: {}
-title: Cinemaliit
+title: 'The Film Dream Creatives '
