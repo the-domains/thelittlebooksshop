@@ -2,7 +2,7 @@ name: The Film Dream Creatives
 analytics:
   google: UA-64070424-1
 github: true
-description: 'Of Insights, Ideas, Stories & Lessons'
+description: Consulting Agency
 author:
   name: The Film Dream Creatives
   url: 'http://thefilmdream.com'
@@ -20,12 +20,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 content: []
 layout_spectrum: 0.18375327438116074
 color:
