@@ -1,14 +1,14 @@
 ---
 publisher: {}
-datePublished: '2018-05-20T01:59:31.197Z'
-dateModified: '2018-05-20T01:59:30.834Z'
+datePublished: '2018-05-20T07:05:50.271Z'
+dateModified: '2018-05-20T07:05:49.847Z'
 via: {}
 description: 'An Expedition at the Sea: A Cinemalaya’s First'
 title: ''
 sourcePath: _posts/2017-09-05-an-expedition-at-the-sea-a-cinemalayas-first.md
 inFeed: true
 author: []
-datePublishedOriginal: '2018-05-20T01:59:31.197Z'
+datePublishedOriginal: '2018-05-20T07:05:50.271Z'
 starred: true
 _type: Blurb
 
