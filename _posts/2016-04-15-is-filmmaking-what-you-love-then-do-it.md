@@ -1,11 +1,12 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
+isBasedOnUrl: 'urn:uuid:15d03723-79b9-4fd9-b339-db91ab8265e7'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2018-05-20T01:59:42.959Z'
-dateModified: '2018-05-20T01:59:42.537Z'
+datePublished: '2018-05-20T01:59:54.494Z'
+dateModified: '2018-05-20T01:59:54.310Z'
 author: []
 title: '''Do What You Love. You''ll Be Better at It'': Making Choices in Your Film Career'
 sourcePath: _posts/2016-04-15-is-filmmaking-what-you-love-then-do-it.md
@@ -16,9 +17,8 @@ publisher:
   url: 'http://nofilmschool.com'
   favicon: 'http://nofilmschool.com/sites/all/themes/responsive/img/icons/favicon.ico'
 via: {}
-datePublishedOriginal: '2018-05-20T01:59:42.959Z'
+datePublishedOriginal: '2018-05-20T01:59:54.494Z'
 starred: true
-url: do-what-you-love-youll-be-better-at-it-making-choices-i/index.html
 _context: 'http://schema.org'
 _type: Article
 
