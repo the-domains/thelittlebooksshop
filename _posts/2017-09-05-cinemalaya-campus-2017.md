@@ -1,14 +1,14 @@
 ---
 publisher: {}
-datePublished: '2018-05-20T01:59:30.294Z'
-dateModified: '2018-05-20T01:59:29.794Z'
+datePublished: '2018-05-20T07:05:49.898Z'
+dateModified: '2018-05-20T07:05:49.065Z'
 via: {}
 description: Cinemalaya Campus 2017
 title: ''
 sourcePath: _posts/2017-09-05-cinemalaya-campus-2017.md
 inFeed: true
 author: []
-datePublishedOriginal: '2018-05-20T01:59:30.294Z'
+datePublishedOriginal: '2018-05-20T07:05:49.898Z'
 starred: true
 _type: Blurb
 
