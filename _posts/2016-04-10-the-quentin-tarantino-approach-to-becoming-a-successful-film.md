@@ -20,21 +20,21 @@ keywords:
 description: ''
 inLanguage: en
 app_links: []
+isBasedOnUrl: >-
+  http://nofilmschool.com/2016/04/quentin-tarantino-approach-becoming-successful-filmmaker
 title: The Quentin Tarantino Approach to Becoming a Successful Filmmaker
-datePublished: '2018-05-20T07:10:07.839Z'
-dateModified: '2018-05-20T07:10:07.688Z'
+datePublished: '2018-05-20T07:10:22.269Z'
+dateModified: '2018-05-20T07:10:21.810Z'
 sourcePath: >-
   _posts/2016-04-10-the-quentin-tarantino-approach-to-becoming-a-successful-film.md
 via: {}
 inFeed: true
-hasPage: true
-datePublishedOriginal: '2018-05-20T07:10:07.839Z'
+datePublishedOriginal: '2018-05-20T07:10:22.269Z'
 starred: true
-url: the-quentin-tarantino-approach-to-becoming-a-successful-film/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5074f29ef134d22731914a1796de521965b2236.jpg" /><h1>The Quentin Tarantino Approach to Becoming a Successful Filmmaker</h1><p>You've got the passion. You've got the drive. You've got the desire to be a great filmmaker, but you don't really know exactly what it takes to be one. If only there was a list of some sort that you could reference!</p></article>
+<article style=""><h1>The Quentin Tarantino Approach to Becoming a Successful Filmmaker</h1><p>You've got the passion. You've got the drive. You've got the desire to be a great filmmaker, but you don't really know exactly what it takes to be one. If only there was a list of some sort that you could reference!</p><img src="http://nofilmschool.com/sites/default/files/styles/facebook/public/quentin_t.jpg?itok=-tmXeF6E" /></article>
 
 The Quentin Tarantino Approach to Becoming a Successful Filmmaker
