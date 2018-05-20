@@ -12,7 +12,12 @@ related:
       https://www.milestechnologi...
     thumbnail_width: 768
     url: 'http://www.slideshare.net/jzeoli/creativity-50605712'
-publisher: {}
+publisher:
+  url: 'http://www.videomaker.com'
+  name: Videomaker.com
+  favicon: >-
+    http://static.videomaker.com/sites/videomaker.com/themes/vm_responsive/favicon.ico
+  domain: www.videomaker.com
 keywords:
   - creative
   - team
@@ -32,13 +37,13 @@ description: >-
 inLanguage: en
 app_links: []
 title: How to build great teamwork in your creative work
-datePublished: '2018-05-20T01:59:42.102Z'
-dateModified: '2018-05-20T01:59:41.863Z'
+datePublished: '2018-05-20T01:59:54.989Z'
+dateModified: '2018-05-20T01:59:54.676Z'
 sourcePath: _posts/2016-04-11-how-to-build-great-teamwork-in-your-creative-work.md
 via: {}
 hasPage: true
 inFeed: true
-datePublishedOriginal: '2018-05-20T01:59:42.102Z'
+datePublishedOriginal: '2018-05-20T01:59:54.989Z'
 starred: true
 url: how-to-build-great-teamwork-in-your-creative-work/index.html
 _context: 'http://schema.org'
@@ -47,8 +52,6 @@ _type: MediaObject
 ---
 # How to build great teamwork in your creative work
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71b0ad3ad5b117e84d6955a4f201772d99e2b41c.jpg" /><h1>Creative Collaboration: Building Team Dynamics for Your Production</h1><p>By definition, collaboration is the act of working with someone to create something. When we set out to create a short film, a commercial or a documentary, we rarely do so in a vacuum. We work with others - cast and crew to bring a vision to life.</p></article>
-
----
+<article style=""><h1>Creative Collaboration: Building Team Dynamics for Your Production</h1><p>By definition, collaboration is the act of working with someone to create something. When we set out to create a short film, a commercial or a documentary, we rarely do so in a vacuum. We work with others - cast and crew to bring a vision to life.</p><img src="http://static.videomaker.com/sites/videomaker.com/files/video/thumbnail/2016/RX10%20III%20-%20THUMB.jpg" /></article>
 
 Creative Collaboration: Building Team Dynamics for Your Production | Videomaker.com
