@@ -35,12 +35,12 @@ app_links:
 isBasedOnUrl: >-
   https://mobile.nytimes.com/2017/06/14/movies/cars-3-review.html?referrer=google_kp&referer=https://www.google.com/
 title: 'Review: In ''Cars 3,'' Lightning McQueen Faces an Existential Crisis'
-datePublished: '2018-05-20T01:59:38.791Z'
-dateModified: '2018-05-20T01:59:38.542Z'
+datePublished: '2018-05-20T07:05:56.018Z'
+dateModified: '2018-05-20T07:05:55.628Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-08-11-review-in-cars-3-lightning-mcqueen-faces-an-existential.md
-datePublishedOriginal: '2018-05-20T01:59:38.791Z'
+datePublishedOriginal: '2018-05-20T07:05:56.018Z'
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
