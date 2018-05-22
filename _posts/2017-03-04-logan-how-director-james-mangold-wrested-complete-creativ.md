@@ -1,6 +1,6 @@
 ---
 app_links: []
-datePublished: '2018-05-20T07:10:14.837Z'
+datePublished: '2018-05-20T07:10:28.812Z'
 description: >-
   As the superhero genre begins to run stale, both director and studio agree:
   it's time for something different. As independent and low-budget filmmakers,
@@ -26,12 +26,12 @@ publisher:
   favicon: 'http://nofilmschool.com/sites/all/themes/responsive/img/icons/favicon.ico'
   url: 'http://nofilmschool.com'
   domain: nofilmschool.com
-dateModified: '2018-05-20T07:10:14.676Z'
+dateModified: '2018-05-20T07:10:28.534Z'
 related: []
 sourcePath: _posts/2017-03-04-logan-how-director-james-mangold-wrested-complete-creativ.md
 title: '''Logan'': How Director James Mangold Wrested Complete Creative Control'
 author: []
-datePublishedOriginal: '2018-05-20T07:10:14.837Z'
+datePublishedOriginal: '2018-05-20T07:10:28.812Z'
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
