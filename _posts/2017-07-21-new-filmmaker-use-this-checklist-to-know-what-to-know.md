@@ -14,18 +14,18 @@ description: >-
   about different cinematic techniques, tools, and standards is relatively
   simple; it's knowing what to learn that is the real challenge.
 app_links: []
+isBasedOnUrl: >-
+  http://nofilmschool.com/2017/07/10-things-beginners-should-know-about-when-they-start-making-films
 title: New Filmmaker? Use This Checklist to Know What to Know
-datePublished: '2018-05-20T07:10:15.125Z'
-dateModified: '2018-05-20T07:10:14.951Z'
+datePublished: '2018-05-20T07:10:30.037Z'
+dateModified: '2018-05-20T07:10:29.587Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-21-new-filmmaker-use-this-checklist-to-know-what-to-know.md
-hasPage: true
-datePublishedOriginal: '2018-05-20T07:10:15.125Z'
+datePublishedOriginal: '2018-05-20T07:10:30.037Z'
 starred: false
-url: new-filmmaker-use-this-checklist-to-know-what-to-know/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e291984cd55af8b92098ef204d86740c/noop.jpg?input=http%3A%2F%2Fnofilmschool.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Ffacebook%2Fpublic%2Fdslr_0.jpg%3Fitok%3DLIgKZVhM" /><h1>New Filmmaker? Use This Checklist to Know What to Know</h1><p>If you're a new filmmaker wondering which key aspects of filmmaking you should learn about, this list will come in handy. Educating yourself on how to make films is difficult, sure, but not for the reason you might think. Learning about different cinematic techniques, tools, and standards is relatively simple; it's knowing what to learn that is the real challenge.</p></article>
+<article style=""><h1>New Filmmaker? Use This Checklist to Know What to Know</h1><p>If you're a new filmmaker wondering which key aspects of filmmaking you should learn about, this list will come in handy. Educating yourself on how to make films is difficult, sure, but not for the reason you might think. Learning about different cinematic techniques, tools, and standards is relatively simple; it's knowing what to learn that is the real challenge.</p><img src="http://nofilmschool.com/sites/default/files/styles/facebook/public/dslr_0.jpg?itok=LIgKZVhM" /></article>
