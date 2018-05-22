@@ -18,19 +18,18 @@ description: >-
   creators, writers, and producers David Benioff and Dan Weiss. The show
   "chronicles the events leading to the Third American Civil War.
 app_links: []
+isBasedOnUrl: 'http://ew.com/tv/2017/07/19/game-of-thrones-showrunners-confederate/'
 title: '''Game of Thrones'' showrunners reveal their next epic HBO series'
-datePublished: '2018-05-20T07:10:15.237Z'
-dateModified: '2018-05-20T07:10:14.810Z'
+datePublished: '2018-05-20T07:10:30.471Z'
+dateModified: '2018-05-20T07:10:30.298Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2017-07-20-game-of-thrones-showrunners-reveal-their-next-epic-hbo-ser.md
-hasPage: true
-datePublishedOriginal: '2018-05-20T07:10:15.237Z'
+datePublishedOriginal: '2018-05-20T07:10:30.471Z'
 starred: false
-url: game-of-thrones-showrunners-reveal-their-next-epic-hbo-ser/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/982885cc91293850791c30b473a3b101/noop.jpg?input=https%3A%2F%2Fewedit.files.wordpress.com%2F2017%2F07%2Fd-b-weiss-and-david-benioff.jpg" /><h1>'Game of Thrones' showrunners reveal their next epic HBO series</h1><p>The Game of Thrones showrunners have revealed their next series, leaving Westeros to create another fantastical and ambitious world-building war drama. HBO has given a straight-to-series order to Confederate from Emmy-winning GoT creators, writers, and producers David Benioff and Dan Weiss. The show "chronicles the events leading to the Third American Civil War.</p></article>
+<article style=""><h1>'Game of Thrones' showrunners reveal their next epic HBO series</h1><p>The Game of Thrones showrunners have revealed their next series, leaving Westeros to create another fantastical and ambitious world-building war drama. HBO has given a straight-to-series order to Confederate from Emmy-winning GoT creators, writers, and producers David Benioff and Dan Weiss. The show "chronicles the events leading to the Third American Civil War.</p><img src="https://ewedit.files.wordpress.com/2017/07/d-b-weiss-and-david-benioff.jpg?w=2000" /></article>
