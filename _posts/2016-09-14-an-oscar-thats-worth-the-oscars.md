@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-05-20T07:10:13.135Z'
+datePublished: '2018-05-20T07:10:28.716Z'
 sourcePath: _posts/2016-09-14-an-oscar-thats-worth-the-oscars.md
 inFeed: true
 isBasedOnUrl: 'http://thefilmdream.com/an-oscar-that-s-worth-the-oscars-.html'
 author: []
 via: {}
-dateModified: '2018-05-20T07:10:12.372Z'
+dateModified: '2018-05-20T07:10:28.410Z'
 title: An Oscar That's Worth the Oscars?
 publisher:
   name: The Film Dream
@@ -14,7 +14,7 @@ description: >-
   A look into the surging career of up and coming actor, Oscar Isaac, and his
   rapid rise to fame, bringing forth the possibility for a future Academy Award
   triumph.
-datePublishedOriginal: '2018-05-20T07:10:13.135Z'
+datePublishedOriginal: '2018-05-20T07:10:28.716Z'
 starred: true
 _type: MediaObject
 
