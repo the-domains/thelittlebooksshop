@@ -71,3 +71,6 @@ purpose:
   - type: contact
     url: 'mailto:tfdcreatives@thefilmdream.com'
     label: Contact us
+  - type: contact
+    url: 'tel:+639175260244'
+    label: Call us
