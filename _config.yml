@@ -67,3 +67,7 @@ content_rating:
 typography_spectrum: 0.08569695800542831
 opengraph: {}
 title: 'The Film Dream Creatives '
+purpose:
+  - type: contact
+    url: 'mailto:tfdcreatives@thefilmdream.com'
+    label: Contact us
